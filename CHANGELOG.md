@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Replace broken GitHub stats with working alternatives (github-profile-summary-cards)
+- Add activity graph visualization
+
+### Changed
+- Move website badge to top of README
+- Remove redundant "Connect With Me" section
+- Remove "About Me" section
+- Remove heading "Hi, I'm Mike Navales"
+
 ## [0.1.0] - 2025-11-23
 
 ### Added

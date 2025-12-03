@@ -1,4 +1,4 @@
-# Hi, I'm Mike Navales 👋
+[![Website](https://img.shields.io/badge/Website-mikenavales.xyz-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenavales.xyz)
 
 > *"I have never let my schooling interfere with my education."* ― Mark Twain
 
@@ -35,11 +35,13 @@ The transition from visual workflows to writing code has been an exciting journe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayknxyz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayknxyz&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayknxyz&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayknxyz&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayknxyz&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayknxyz&theme=redical)
 
 </div>
 
@@ -47,17 +49,6 @@ The transition from visual workflows to writing code has been an exciting journe
 
 - [**Madali Consulting**](https://madaliconsulting.com) - Marketing website
 - [**Elijah Pantam**](https://elijahpantam.com) - Marketing website
-
-## 🔗 Connect With Me
-
-[![Website](https://img.shields.io/badge/Website-mikenavales.xyz-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenavales.xyz)
-
-## 💡 About Me
-
-- 🔄 Transitioning from no-code automation to full-stack development
-- 🌱 Currently mastering modern frontend frameworks and exploring backend languages
-- 💬 Ask me about **no-code automation**, **Svelte**, **Astro**, or the journey from visual programming to code
-- 📫 Reach me through my [website](https://mikenavales.xyz)
 
 ---
 
