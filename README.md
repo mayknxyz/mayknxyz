@@ -8,23 +8,16 @@ I come from the **no-code automation world** where I built workflows and automat
 
 The transition from visual workflows to writing code has been an exciting journey of rediscovering the fundamentals and understanding what happens under the hood.
 
-## 🚀 What I'm Building
-
-- 🎯 **Web App** using Svelte/SvelteKit
-- 🌐 **Marketing Websites** using Astro
-- 🔍 Exploring backend languages: **Elixir**, **Go**, and **Rust**
-
 ## 🛠️ Tech Stack
 
 ### Currently Using
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Exploring
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### No-Code Background
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
@@ -37,18 +30,12 @@ The transition from visual workflows to writing code has been an exciting journe
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayknxyz&theme=radical)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayknxyz&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayknxyz&theme=radical&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayknxyz&theme=redical)
 
 </div>
 
-## 🌟 Featured Projects
-
-- [**Madali Consulting**](https://madaliconsulting.com) - Marketing website
-- [**Elijah Pantam**](https://elijahpantam.com) - Marketing website
 
 ---
 
