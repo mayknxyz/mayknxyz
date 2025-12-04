@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2025-12-04
+
+### Changed
+- Remove "What I'm Building" section
+- Remove "Exploring" section (Elixir, Rust badges)
+- Remove "Top Languages" card
+- Remove "Featured Projects" section
+- Add HTML5, CSS3, JavaScript badges to tech stack
+- Move Go from "Exploring" to "Currently Using"
+
+## [0.1.1] - 2025-12-04
+
 ### Fixed
 - Replace broken GitHub stats with working alternatives (github-profile-summary-cards)
 - Add activity graph visualization
@@ -31,5 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark Twain quote: "I have never let my schooling interfere with my education."
 - About Me section with current focus and learning goals
 
-[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.1...v0.2.0
+[0.1.1]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/mayknxyz/mayknxyz/releases/tag/v0.1.0
