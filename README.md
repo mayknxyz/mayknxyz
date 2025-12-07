@@ -24,13 +24,28 @@ The transition from visual workflows to writing code has been an exciting journe
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+## 📂 Public Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [my-kit](https://github.com/mayknxyz/my-kit) | Personal toolkit |
+| [my-obsidian](https://github.com/mayknxyz/my-obsidian) | Obsidian configuration |
+| [my-dotfiles](https://github.com/mayknxyz/my-dotfiles) | Dotfiles |
+| [my-nvim](https://github.com/mayknxyz/my-nvim) | Neovim configuration |
+| [my-cli](https://github.com/mayknxyz/my-cli) | CLI tools |
+| [mikeenavales-xyz](https://github.com/mayknxyz/mikeenavales-xyz) | Personal website |
+| [mikee-monsterverse](https://github.com/mayknxyz/mikee-monsterverse) | Monsterverse project |
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayknxyz&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayknxyz&theme=radical&hide_border=true)
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayknxyz&theme=radical" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayknxyz&theme=radical&hide_border=true" /></td>
+</tr>
+</table>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayknxyz&theme=redical)
 
