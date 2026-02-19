@@ -29,10 +29,10 @@
 
 ## Open Source
 
-- 🎒 **[my-backpack](https://github.com/mayknxyz/my-backpack-site)**
-- 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)** ([mykit.mikenavales.xyz](https://mykit.mikenavales.xyz)) — Documentation site for my-kit
-- 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)** ([mybuddy.mikenavales.xyz](https://mybuddy.mikenavales.xyz))
-- 🔍 **[my-fzf](https://github.com/mayknxyz/my-fzf)** ([myfzf.mikenavales.xyz](https://myfzf.mikenavales.xyz))
+- 🎒 **[my-backpack](https://github.com/mayknxyz/my-backpack-site)** — Public access to dev tools I built and use
+- 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)** ([docs](https://mykit.mikenavales.xyz)) — Spec-driven, skill-based development workflow toolkit for Claude Code
+- 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)** ([docs](https://mybuddy.mikenavales.xyz)) — AI assistant powered by Claude Code
+- 🔍 **[my-fzf](https://github.com/mayknxyz/my-fzf)** ([docs](https://myfzf.mikenavales.xyz)) — Search-based navigation within the terminal
 
 ## Side Quests
 
