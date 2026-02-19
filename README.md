@@ -1,4 +1,5 @@
-📍 **Davao City, PH** | 🏗️ **tech architect / integrator / builder**
+🖥️ **AI-first Developer: solutions architect / integrator / builder**
+<sub>📍 Davao City, PH</sub>
 
 > *"I have never let my schooling interfere with my education."* ― Mark Twain
 
@@ -28,7 +29,7 @@
 
 ## Open Source
 
-- 🎒 **[my-backpack-site](https://github.com/mayknxyz/my-backpack-site)**
+- 🎒 **[my-backpack](https://github.com/mayknxyz/my-backpack-site)**
 - 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)** ([mykit.mikenavales.xyz](https://mykit.mikenavales.xyz)) — Documentation site for my-kit
 - 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)** ([mybuddy.mikenavales.xyz](https://mybuddy.mikenavales.xyz))
 - 🔍 **[my-fzf](https://github.com/mayknxyz/my-fzf)** ([myfzf.mikenavales.xyz](https://myfzf.mikenavales.xyz))
