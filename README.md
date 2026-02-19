@@ -27,11 +27,15 @@
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
+## Closed Source
+
+- 🥜 **[nutschool app](https://github.com/mayknxyz/nutschool-2-app)** ([site](https://nutschool.com)) — App to prepare kids for the future we can't predict by teaching them how to think, not what to think
+
 ## Open Source
 
 - 🎒 **[my-backpack](https://github.com/mayknxyz/my-backpack-site)** — Public access to dev tools I built and use
 - 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)** ([docs](https://mykit.mikenavales.xyz)) — Spec-driven, skill-based development workflow toolkit for Claude Code
-- 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)** ([docs](https://mybuddy.mikenavales.xyz)) — AI assistant powered by Claude Code
+- 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)** ([docs](https://mybuddy.mikenavales.xyz)) — Local-first all-in-one personal app (project/task, crm, knowledge base, etc) utilizing Claude Code as the AI assistant
 - 🔍 **[my-fzf](https://github.com/mayknxyz/my-fzf)** ([docs](https://myfzf.mikenavales.xyz)) — Search-based navigation within the terminal
 
 ## Side Quests
