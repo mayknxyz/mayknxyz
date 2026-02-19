@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-02-19
+
+### Added
+- Bun badge to web stack row
+
+### Changed
+- Shorten mission blurb to punchier copy
+- Regroup tech badges into 3 rows: tooling/infra, web stack, automation
+- Merge doc site repos into parent entries with linked URLs (mykit, mybuddy, myfzf)
+
+### Removed
+- Separate `-site` repo entries (my-kit-site, my-buddy-site, my-fzf-site)
+
 ## [0.5.0] - 2026-02-19
 
 ### Added
@@ -80,7 +93,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark Twain quote: "I have never let my schooling interfere with my education."
 - About Me section with current focus and learning goals
 
-[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.5.0...HEAD
+[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.0...HEAD
+[0.6.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.2.0...v0.3.0
