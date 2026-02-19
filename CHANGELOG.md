@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-02-19
+
+### Added
+- Arch Linux, CLI, Claude Code, Bash, Node.js, Tailwind CSS, Git, GitHub, Cloudflare badges
+- "Some Work" section with client/project websites
+
+### Changed
+- Rename HTML5 → HTML, CSS3 → CSS badges
+
+### Removed
+- Go badge
+
 ## [0.4.0] - 2026-02-19
 
 ### Added
@@ -68,7 +80,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark Twain quote: "I have never let my schooling interfere with my education."
 - About Me section with current focus and learning goals
 
-[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.4.0...HEAD
+[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.5.0...HEAD
+[0.5.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.1...v0.2.0
