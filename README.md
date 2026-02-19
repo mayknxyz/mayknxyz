@@ -15,15 +15,22 @@
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-## Public Repositories
+## Open Source
 
-- 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)** — Personal toolkit
-- 📓 **[my-obsidian](https://github.com/mayknxyz/my-obsidian)** — Obsidian configuration
-- ⚙️ **[my-dotfiles](https://github.com/mayknxyz/my-dotfiles)** — Dotfiles
-- ✏️ **[my-nvim](https://github.com/mayknxyz/my-nvim)** — Neovim configuration
-- 💻 **[my-cli](https://github.com/mayknxyz/my-cli)** — CLI tools
-- 🌐 **[mikeenavales-xyz](https://github.com/mayknxyz/mikeenavales-xyz)** — Personal website
-- 🦎 **[mikee-monsterverse](https://github.com/mayknxyz/mikee-monsterverse)** — Monsterverse project
+- 🎒 **[my-backpack-site](https://github.com/mayknxyz/my-backpack-site)**
+- 🧰 **[my-kit](https://github.com/mayknxyz/my-kit)**
+- 📖 **[my-kit-site](https://github.com/mayknxyz/my-kit-site)** — Documentation site for my-kit
+- 🤖 **[my-buddy](https://github.com/mayknxyz/my-buddy)**
+- 🌐 **[my-buddy-site](https://github.com/mayknxyz/my-buddy-site)**
+- 🔍 **[my-fzf](https://github.com/mayknxyz/my-fzf)**
+- 🌐 **[my-fzf-site](https://github.com/mayknxyz/my-fzf-site)**
+
+## Side Quests
+
+- 🌐 **[mikeenavales-xyz](https://github.com/mayknxyz/mikeenavales-xyz)** — Son's personal website
+- 🦎 **[mikee-monsterverse](https://github.com/mayknxyz/mikee-monsterverse)** — Mikee's MonsterVerse
+- 🌐 **[mackynavales-xyz](https://github.com/mayknxyz/mackynavales-xyz)** — Son's personal website
+- 🌐 **[sednynavales-xyz](https://github.com/mayknxyz/sednynavales-xyz)** — Wife's personal website
 
 ## GitHub Stats
 
@@ -36,12 +43,10 @@
 </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayknxyz&theme=redical)
-
 </div>
 
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-mikenavales.xyz-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://mikenavales.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikeenavales-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikeenavales)
-[![GitHub Follow](https://img.shields.io/github/followers/mayknxyz?label=Follow&style=flat-square&logo=github)](https://github.com/mayknxyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikeenavales)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mayknxyz)

@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-02-19
+
+### Added
+- "Side Quests" section with family personal websites and side projects
+- New repos: my-backpack-site, my-kit-site, my-buddy, my-buddy-site, my-fzf, my-fzf-site, mackynavales-xyz, sednynavales-xyz
+
+### Changed
+- Rename "Public Repositories" to "Open Source"
+- Update repo list to match current public repos
+- Remove activity graph from GitHub Stats
+- Simplify LinkedIn and GitHub Connect badges
+
+### Removed
+- Private repos no longer listed (my-obsidian, my-dotfiles, my-nvim, my-cli)
+- Activity graph contribution chart
+- GitHub follower count badge
+
 ## [0.3.0] - 2025-12-08
 
 ### Added
@@ -51,7 +68,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark Twain quote: "I have never let my schooling interfere with my education."
 - About Me section with current focus and learning goals
 
-[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.3.0...HEAD
+[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.1...v0.2.0
 [0.1.1]: https://github.com/mayknxyz/mayknxyz/compare/v0.1.0...v0.1.1
