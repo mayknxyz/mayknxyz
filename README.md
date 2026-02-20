@@ -51,7 +51,6 @@
 - 🌐 **[madali.io](https://madali.io)**
 - 🌐 **[elijahpantam.com](https://elijahpantam.com)**
 - 🌐 **[madamekaiya.com](https://madamekaiya.com)**
-- 🌐 **[esoterictreasures.com](https://esoterictreasures.com)**
 
 ## GitHub Stats
 
