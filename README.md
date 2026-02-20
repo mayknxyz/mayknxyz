@@ -40,10 +40,10 @@
 
 ## Side Quests
 
-- 🌐 **[mikeenavales-xyz](https://github.com/mayknxyz/mikeenavales-xyz)** — Son's personal website
-- 🦎 **[mikee-monsterverse](https://github.com/mayknxyz/mikee-monsterverse)** — Mikee's MonsterVerse
-- 🌐 **[mackynavales-xyz](https://github.com/mayknxyz/mackynavales-xyz)** — Son's personal website
-- 🌐 **[sednynavales-xyz](https://github.com/mayknxyz/sednynavales-xyz)** — Wife's personal website
+- 🌐 **[mikeenavales.xyz](https://mikeenavales.xyz)** — Son's personal website
+- 🦎 **[monsterverse.mikeenavales.xyz](https://monsterverse.mikeenavales.xyz)** — Mikee's MonsterVerse
+- 🌐 **[mackynavales.xyz](https://mackynavales.xyz)** — Son's personal website
+- 🌐 **[sednynavales.xyz](https://sednynavales.xyz)** — Wife's personal website
 
 ## Some Work
 
