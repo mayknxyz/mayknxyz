@@ -45,7 +45,7 @@
 - 🌐 **[mackynavales.xyz](https://mackynavales.xyz)** — Son's personal website
 - 🌐 **[sednynavales.xyz](https://sednynavales.xyz)** — Wife's personal website
 
-## Some Work
+## Some Work Stuff
 
 - 🌐 **[madaliconsulting.com](https://madaliconsulting.com)**
 - 🌐 **[madali.io](https://madali.io)**
