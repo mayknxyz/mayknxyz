@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-03-14
+
+### Added
+- automeyt.com, ultimeyt.com, frostapp.dev, optimified.com to Xtensions section
+
+### Changed
+- Rename "Closed Source" section to "Xtensions"
+- Replace nutschool entry with direct nutschool.com link
+
+### Removed
+- "Open Source" section (my-backpack, my-kit, my-buddy, my-fzf)
+
 ## [0.6.5] - 2026-02-20
 
 ### Removed
@@ -125,7 +137,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark Twain quote: "I have never let my schooling interfere with my education."
 - About Me section with current focus and learning goals
 
-[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.5...HEAD
+[unreleased]: https://github.com/mayknxyz/mayknxyz/compare/v0.7.0...HEAD
+[0.7.0]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.5...v0.7.0
 [0.6.5]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.4...v0.6.5
 [0.6.4]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.3...v0.6.4
 [0.6.3]: https://github.com/mayknxyz/mayknxyz/compare/v0.6.2...v0.6.3
